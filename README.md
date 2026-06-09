@@ -1,16 +1,13 @@
-## Hi there 👋
+# Kisaragi Irona
 
-<!--
-**k-irona/k-irona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Undergraduate @ USTC '28
 
-Here are some ideas to get you started:
+* 🤖 Interested in Large Language Models
+* 💻 Learning Computer Science
+* 🌱 Building things and exploring ideas
+* 🌐 kisaragi-irona.top
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can call me **Kisaragi**.
+
+> There must be more.
+>I believe there are always more possibilities beyond what seems obvious.
